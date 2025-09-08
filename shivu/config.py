@@ -2,12 +2,12 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext    
 
 class Development:    
-    api_id =    
-    api_hash = ""    
-    TOKEN = ""    
+    api_id = 26344421  
+    api_hash = "4bbcf08096c88dfa79c1e8e03af3ab3a"    
+    TOKEN = "8474933953:AAHFAqTJGkSiN7ltZUexXV7syiwdZ6YsiPg"    
     GROUP_ID =    
     CHARA_CHANNEL_ID =   
-    mongo_url = ""
+    mongo_url = "mongodb+srv://rajrajbarman02:rajrajkumar02@rajrajkumar.fywl2ol.mongodb.net/"
 
     PHOTO_URL = [    
         "https://telegra.ph/file/c74151f4c2b56a107a24b.jpg",    
@@ -15,8 +15,8 @@ class Development:
     ]    
     SUPPORT_CHAT = ""    
     UPDATE_CHAT = ""    
-    BOT_USERNAME = ""    
-    OWNER_ID = ""    
+    BOT_USERNAME = "@Saber_gaming_bot"    
+    OWNER_ID = "7639271205"    
     JOINLOGS =    
     LEAVELOGS =   
 
