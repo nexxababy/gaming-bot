@@ -2,23 +2,23 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext    
 
 class Development:    
-    api_id = 20160788   
-    api_hash = "192838ffc9ddeaf78ef96cb48aec7aa5"    
-    TOKEN = "8297483839:AAFDdDIX-jHiHQMD7TzJrs9ruo9k8Ux7FOI"    
-    GROUP_ID = -1002097449198    
-    CHARA_CHANNEL_ID = -1002749526772    
-    mongo_url = "mongodb+srv://pabitrabarman0002:rajrajkumar02@rajrajkumar.rrwa7zy.mongodb.net/?retryWrites=true&w=majority&appName=Rajrajkumar"
+    api_id =    
+    api_hash = ""    
+    TOKEN = ""    
+    GROUP_ID =    
+    CHARA_CHANNEL_ID =   
+    mongo_url = ""
 
     PHOTO_URL = [    
         "https://telegra.ph/file/c74151f4c2b56a107a24b.jpg",    
         "https://telegra.ph/file/6a81a91aa4a660a73194b.jpg"    
     ]    
-    SUPPORT_CHAT = "+roNC_pDAtQxhNWVl"    
-    UPDATE_CHAT = "The_Moon_Network"    
-    BOT_USERNAME = "ZeroTwo_Games_bot"    
-    OWNER_ID = "7598384653"    
-    JOINLOGS = -1002097449198    
-    LEAVELOGS = -1002097449198    
+    SUPPORT_CHAT = ""    
+    UPDATE_CHAT = ""    
+    BOT_USERNAME = ""    
+    OWNER_ID = ""    
+    JOINLOGS =    
+    LEAVELOGS =   
 
     # ✅ Added sudo_users
     sudo_users = [7598384653]  # Add more user IDs if needed
